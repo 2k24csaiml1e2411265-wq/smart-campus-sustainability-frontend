@@ -217,7 +217,9 @@ function Loading({ seconds, onRetry }) {
         marginBottom: 18,
       }} />
       <style>{`@keyframes spin { to { transform: rotate(360deg); } }`}</style>
-
+  <p style={{ color: C.gray700, margin: "0 0 6px", fontWeight: 800, fontSize: 40 }}>
+        "Smart Campus Sustainability Dashboard — PSIT Kanpur"
+  </p>
       <p style={{ color: C.gray700, margin: "0 0 6px", fontWeight: 600, fontSize: 30 }}>
         🌿Connecting to campus sensors
       </p>
