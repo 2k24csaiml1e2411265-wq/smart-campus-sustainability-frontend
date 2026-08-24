@@ -7,6 +7,11 @@ A modern, responsive web dashboard for monitoring **Energy, Solar, Water and Sus
 The frontend visualizes real-time/simulated data, AI-generated insights, anomalies, forecasts, department rankings and Green Scores through an interactive dashboard.
 
 ---
+## 🚀 Live Demo
+
+[🌱 Smart Campus Sustainability Dashboard](https://psit-dashboard-frontend.vercel.app/)
+
+---
 
 ## 🚀 Features
 
